@@ -1,1 +1,7 @@
 print("숙제2")
+print("숙제2")
+print("숙제2")
+print("숙제2")
+print("숙제2")
+print("숙제2")
+print("숙제2")
